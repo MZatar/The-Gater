@@ -2,7 +2,7 @@
 
 A physical logic gate explorer built entirely with raw 74LS-series logic. No microcontrollers. No code. Just pure digital logic hardware.
 
-![Front of PCB](https://github.com/MZatar/The-Gater/blob/main/Images/front.png) ![Back of PCB](https://github.com/MZatar/The-Gater/blob/main/Images/back.png)   
+![Front of PCB](https://github.com/MZatar/The-Gater/blob/main/Images/front.png) ![real](https://github.com/MZatar/The-Gater/blob/main/Images/20260309_160907.jpg)   
 
 ## What is it?
 The Gater is an educational PCB that physically demonstrates all 8 standard logic gate configurations (BUF, INV, AND, NAND, OR, NOR, XOR, XNOR) using only one `74LS00` (Quad NAND) and one `74LS02` (Quad NOR). 
